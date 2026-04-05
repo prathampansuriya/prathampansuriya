@@ -81,7 +81,7 @@ Passionate about <b>Generative AI · LLMs · RAG systems</b> and shipping real-w
 
 ---
 
-> 🌐 All projects are live & showcased on my **[portfolio](https://ipsoftechsolutions.pythonanywhere.com/projects/)** — source code available on request.
+> 🌐 All projects are live & showcased on my **[portfolio](https://ipsoftechsolutions.pythonanywhere.com/projects/)** — want the source code or need something similar built? Feel free to **[reach out](mailto:prathampansuriya444@gmail.com)**.
 
 ---
 
