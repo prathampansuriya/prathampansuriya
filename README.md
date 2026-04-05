@@ -96,11 +96,13 @@ Passionate about <b>Generative AI · LLMs · RAG systems</b> and shipping real-w
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathampansuriya&show_icons=true&theme=radical)
+## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=prathampansuriya&theme=onedark)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=prathampansuriya&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prathampansuriya&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=prathampansuriya&theme=radical)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=prathampansuriya&layout=compact&theme=radical)
 
 ---
 
