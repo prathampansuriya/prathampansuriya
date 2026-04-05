@@ -104,11 +104,21 @@ Passionate about <b>Generative AI · LLMs · RAG systems</b> and shipping real-w
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Analytics
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathampansuriya&theme=radical" width="100%"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=prathampansuriya&theme=radical)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prathampansuriya&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prathampansuriya&theme=radical"/>
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prathampansuriya&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prathampansuriya&theme=radical&utcOffset=5.5"/>
+</p>
 
 ---
 
