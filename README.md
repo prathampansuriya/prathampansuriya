@@ -98,7 +98,7 @@ Passionate about <b>Generative AI · LLMs · RAG systems</b> and shipping real-w
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathampansuriya&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=prathampansuriya&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=prathampansuriya&theme=github_dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prathampansuriya&layout=compact&theme=radical)
 
