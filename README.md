@@ -81,15 +81,6 @@ Passionate about <b>Generative AI · LLMs · RAG systems</b> and shipping real-w
 
 ---
 
-## 🚀 Flagship AI SaaS Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🎙️ **[MeetWise](https://ipsoftechsolutions.pythonanywhere.com/projects/meetwise-ai-powered-meeting-intelligence-platform/)** | Video conferencing + live transcription + AI assistant EVA + auto MOM generation | Next.js · Node.js · Socket.IO · Gemini |
-| 🤖 **[AI Buddy](https://ipsoftechsolutions.pythonanywhere.com/projects/ai-buddy-real-time-ai-assistant/)** | Real-time multilingual AI assistant with camera & screen access | Next.js · Firebase · Gemini |
-| 🔍 **[AI Vision Studio](https://ipsoftechsolutions.pythonanywhere.com/projects/ai-vision-studio-ai-content-analysis-platform/)** | Multi-modal AI analysis — image, video & document understanding | Next.js · Python · LangChain · RAG |
-| 💬 **[NexusChat](https://ipsoftechsolutions.pythonanywhere.com/projects/nexuschat-ai-customer-support-saas-platform/)** | Embeddable AI customer care SaaS with custom training & analytics | Next.js · Node.js · MongoDB · Stripe |
-
 > 🌐 All projects are live & showcased on my **[portfolio](https://ipsoftechsolutions.pythonanywhere.com/projects/)** — source code available on request.
 
 ---
