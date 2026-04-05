@@ -106,11 +106,9 @@ Passionate about <b>Generative AI · LLMs · RAG systems</b> and shipping real-w
 
 ## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathampansuriya)](https://github.com/prathampansuriya/github-readme-stats)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=prathampansuriya&theme=radical)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=prathampansuriya&layout=compact&theme=radical)
 
 ---
 
