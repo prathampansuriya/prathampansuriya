@@ -96,8 +96,6 @@ Passionate about <b>Generative AI · LLMs · RAG systems</b> and shipping real-w
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=prathampansuriya&show_icons=true&theme=radical&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=prathampansuriya&theme=radical)
