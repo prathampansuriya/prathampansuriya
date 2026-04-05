@@ -83,7 +83,7 @@ Passionate about <b>Generative AI · LLMs · RAG systems</b> and shipping real-w
 
 ## 🚀 Projects
 
-> 💡 Source code is private (client-grade products). Live demos & full details on my **[Portfolio →](https://ipsoftechsolutions.pythonanywhere.com/projects/)**
+> 💡 Live demos & full details on my **[Portfolio →](https://ipsoftechsolutions.pythonanywhere.com/projects/)**
 
 ### 🤖 AI SaaS & Generative AI
 
