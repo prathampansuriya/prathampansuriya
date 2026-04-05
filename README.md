@@ -104,20 +104,16 @@ Passionate about <b>Generative AI · LLMs · RAG systems</b> and shipping real-w
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathampansuriya&theme=radical" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prathampansuriya&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathampansuriya&theme=radical" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prathampansuriya&theme=radical"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prathampansuriya&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prathampansuriya&theme=radical"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prathampansuriya&theme=radical&utcOffset=5.5"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathampansuriya&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
 
 ---
