@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL">🌐 Portfolio</a> &nbsp;|&nbsp;
-  <a href="YOUR_LINKEDIN_URL">💼 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="mailto:YOUR_EMAIL">📬 Email</a>
+  <a href="https://ipsoftechsolutions.pythonanywhere.com">🌐 Portfolio</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/pratham-pansuriya-868b91297/">💼 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="mailto:prathampansuriya444@gmail.com">📬 Email</a>
 </p>
 
 ---
@@ -58,10 +58,10 @@
 
 | Project | Description | Stack | Demo |
 |---------|-------------|-------|------|
-| 🎙️ **MeetWise** | Smart meeting platform with live transcription & AI assistant EVA | Next.js · Socket.IO · Gemini | [Live Demo]([DEMO_URL](https://meetwise-saas.vercel.app/)) |
-| 🤖 **AI Buddy** | Real-time multilingual AI assistant with camera & screen access | React · Gemini · WebRTC | [Live Demo]([DEMO_URL](https://ai-buddy-saas.vercel.app/)) |
-| 🔍 **AI Vision Studio** | Multi-modal AI analysis — image, video & document understanding | Python · Gemini Vision | [Project Details]([DEMO_URL](https://ipsoftechsolutions.pythonanywhere.com/projects/ai-vision-studio-ai-content-analysis-platform/)) |
-| 💬 **NexusChat** | Embeddable AI customer care SaaS with RAG & custom widget | Node.js · RAG · MongoDB | [Live Demo]([DEMO_URL](https://nexus-chat-saas.vercel.app/)) |
+| 🎙️ **MeetWise** | Smart meeting platform with live transcription & AI assistant EVA | Next.js · Socket.IO · Gemini | [Live Demo](https://meetwise-saas.vercel.app/) |
+| 🤖 **AI Buddy** | Real-time multilingual AI assistant with camera & screen access | React · Gemini · WebRTC | [Live Demo](https://ai-buddy-saas.vercel.app/) |
+| 🔍 **AI Vision Studio** | Multi-modal AI analysis — image, video & document understanding | Python · Gemini Vision | [Project Details](https://ipsoftechsolutions.pythonanywhere.com/projects/ai-vision-studio-ai-content-analysis-platform/) |
+| 💬 **NexusChat** | Embeddable AI customer care SaaS with RAG & custom widget | Node.js · RAG · MongoDB | [Live Demo](https://nexus-chat-saas.vercel.app/) |
 
 > 🌐 All projects are live & showcased on my **[portfolio](ipsoftechsolutions.pythonanywhere.com)** — source code available on request.
 
@@ -70,8 +70,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathampansuriya&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathampansuriya&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prathampansuriya&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathampansuriya&count_private=true&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ---
@@ -80,7 +80,7 @@
 
 - 👨‍💻 I'm open to **freelance projects**, **collaboration**, and **full-time opportunities**
 - 💡 Got an idea? I can build it — end to end
-- 📩 Reach me via **[my portfolio]([YOUR_PORTFOLIO_URL](https://ipsoftechsolutions.pythonanywhere.com/))** or **[LinkedIn]([YOUR_LINKEDIN_UR](https://www.linkedin.com/in/pratham-pansuriya-868b91297/)L)**
+- 📩 Reach me via **[my portfolio](https://ipsoftechsolutions.pythonanywhere.com/)** or **[LinkedIn](https://www.linkedin.com/in/pratham-pansuriya-868b91297/)**
 
 ---
 
