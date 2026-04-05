@@ -81,40 +81,26 @@ Passionate about <b>Generative AI · LLMs · RAG systems</b> and shipping real-w
 
 ---
 
-## 🚀 Projects
-
-> 💡 Live demos & full details on my **[Portfolio →](https://ipsoftechsolutions.pythonanywhere.com/projects/)**
-
-### 🤖 AI SaaS & Generative AI
+## 🚀 Flagship AI SaaS Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🎙️ **[MeetWise – AI Meeting Intelligence](https://ipsoftechsolutions.pythonanywhere.com/projects/meetwise-ai-powered-meeting-intelligence-platform/)** | Video conferencing + live multi-language transcription + AI assistant EVA + auto MOM generation | Next.js, TypeScript, Node.js, Socket.IO, Firebase, Gemini, Razorpay |
-| 🤖 **[AI Buddy – Real-Time AI Assistant](https://ipsoftechsolutions.pythonanywhere.com/projects/ai-buddy-real-time-ai-assistant/)** | Real-time multilingual AI assistant with camera & screen access | Next.js, TypeScript, Firebase, Gemini, Razorpay |
-| 🔍 **[AI Vision Studio – Content Analysis Platform](https://ipsoftechsolutions.pythonanywhere.com/projects/ai-vision-studio-ai-content-analysis-platform/)** | Multi-modal AI analysis — image, video & document understanding with RAG | Next.js, Python, LangChain, RAG, MongoDB, Gemini, Razorpay |
-| 💬 **[NexusChat – AI Customer Support SaaS](https://ipsoftechsolutions.pythonanywhere.com/projects/nexuschat-ai-customer-support-saas-platform/)** | Embeddable AI customer care widget with custom training & analytics dashboard | Next.js, TypeScript, Node.js, MongoDB, Stripe, Gemini |
-| 🎓 **[AI-Powered Grading Management System](https://ipsoftechsolutions.pythonanywhere.com/projects/ai-powered-grading-management-system/)** | AI-assisted academic grading with analytics dashboard | DRF, React, Tailwind CSS, Chart.js, Gemini, MySQL |
-| 🏪 **[Multi-Vendor E-Commerce with AI Studio](https://ipsoftechsolutions.pythonanywhere.com/projects/multi-vendor-e-commerce-marketplace-with-ai-studio/)** | Multi-vendor marketplace with integrated AI content generation studio | Django, Gen AI, Stripe, Tailwind CSS, Chart.js, MySQL |
-| 🧠 **[DeepFace & Anti-Spoofing Analysis System](https://ipsoftechsolutions.pythonanywhere.com/projects/deepface-anti-spoofing-analysis-system/)** | Face recognition + liveness detection using CNN & deep learning models | Python, TensorFlow, CNN, Flask, Tailwind CSS, Chart.js |
+| 🎙️ **[MeetWise](https://ipsoftechsolutions.pythonanywhere.com/projects/meetwise-ai-powered-meeting-intelligence-platform/)** | Video conferencing + live transcription + AI assistant EVA + auto MOM generation | Next.js · Node.js · Socket.IO · Gemini |
+| 🤖 **[AI Buddy](https://ipsoftechsolutions.pythonanywhere.com/projects/ai-buddy-real-time-ai-assistant/)** | Real-time multilingual AI assistant with camera & screen access | Next.js · Firebase · Gemini |
+| 🔍 **[AI Vision Studio](https://ipsoftechsolutions.pythonanywhere.com/projects/ai-vision-studio-ai-content-analysis-platform/)** | Multi-modal AI analysis — image, video & document understanding | Next.js · Python · LangChain · RAG |
+| 💬 **[NexusChat](https://ipsoftechsolutions.pythonanywhere.com/projects/nexuschat-ai-customer-support-saas-platform/)** | Embeddable AI customer care SaaS with custom training & analytics | Next.js · Node.js · MongoDB · Stripe |
 
-### 🌐 Full-Stack Web Apps
+> 🌐 All projects are live & showcased on my **[portfolio](https://ipsoftechsolutions.pythonanywhere.com/projects/)** — source code available on request.
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 💼 **[CareerHub – Job & Recruitment Platform](https://ipsoftechsolutions.pythonanywhere.com/projects/careerhub-advanced-job-recruitment-platform/)** | Advanced job board with AI-assisted recruitment features | MERN, Tailwind CSS, Gen AI, MongoDB |
-| ☁️ **[CloudPrime – File Hosting Platform](https://ipsoftechsolutions.pythonanywhere.com/projects/cloudprime-professional-file-hosting-platform/)** | Professional cloud file hosting & management platform | MERN, MongoDB, Tailwind CSS |
-| 🎓 **[Full-Stack LMS](https://ipsoftechsolutions.pythonanywhere.com/projects/full-stack-learning-management-system/)** | Complete learning management system with course, payment & progress tracking | Django, Stripe, Bootstrap, MySQL |
-| 🛒 **[Full-Stack E-Commerce Website](https://ipsoftechsolutions.pythonanywhere.com/projects/full-stack-e-commerce-website/)** | Feature-rich e-commerce store with payment integration | Django, Stripe, Tailwind CSS, MySQL |
-| 🛍️ **[E-Commerce Feature Solution](https://ipsoftechsolutions.pythonanywhere.com/projects/e-commerce-website-feature-solution/)** | Modular e-commerce solution built with Laravel | Laravel, Stripe, Bootstrap, MySQL |
-| 🏢 **[RAC Management System](https://ipsoftechsolutions.pythonanywhere.com/projects/rac-management/)** | Organization management system with payment flow | Django, Razorpay, Bootstrap, MySQL |
-| 🎓 **[PhD Portal](https://ipsoftechsolutions.pythonanywhere.com/projects/phd-portal/)** | Academic PhD application & management portal | Django, Razorpay, Bootstrap, MySQL |
+---
 
-### 📱 Mobile Apps
+## 📊 GitHub Stats
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🛒 **[Full-Stack E-Commerce Mobile App](https://ipsoftechsolutions.pythonanywhere.com/projects/full-stack-e-commerce-mobile-application/)** | Complete mobile shopping app with backend API & payment gateway | Flutter, Dart, Django, DRF, Razorpay, MySQL |
-| 🧠 **[Quiz App](https://ipsoftechsolutions.pythonanywhere.com/projects/quiz-app/)** | Realtime quiz mobile app with PHP backend & Firebase sync | Flutter, Dart, PHP, Firebase, MySQL |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathampansuriya&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=prathampansuriya&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prathampansuriya&layout=compact&theme=radical)
 
 ---
 
