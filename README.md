@@ -81,6 +81,25 @@ Passionate about <b>Generative AI · LLMs · RAG systems</b> and shipping real-w
 
 ---
 
+## 🚀 Featured Projects
+
+### 🤖 AI SaaS
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🎙️ **[MeetWise](https://ipsoftechsolutions.pythonanywhere.com/projects/meetwise-ai-powered-meeting-intelligence-platform/)** | Video conferencing + live transcription + AI assistant EVA + auto MOM generation | Next.js · Node.js · Socket.IO · Gemini |
+| 🤖 **[AI Buddy](https://ipsoftechsolutions.pythonanywhere.com/projects/ai-buddy-real-time-ai-assistant/)** | Real-time multilingual AI assistant with camera & screen access | Next.js · Firebase · Gemini |
+| 🔍 **[AI Vision Studio](https://ipsoftechsolutions.pythonanywhere.com/projects/ai-vision-studio-ai-content-analysis-platform/)** | Multi-modal AI analysis — image, video & document understanding | Next.js · Python · LangChain · RAG |
+| 💬 **[NexusChat](https://ipsoftechsolutions.pythonanywhere.com/projects/nexuschat-ai-customer-support-saas-platform/)** | Embeddable AI customer care SaaS with custom training & analytics | Next.js · Node.js · MongoDB · Stripe |
+
+### 🌐 Full-Stack & Mobile
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🏪 **[Multi-Vendor E-Commerce with AI Studio](https://ipsoftechsolutions.pythonanywhere.com/projects/multi-vendor-e-commerce-marketplace-with-ai-studio/)** | Multi-vendor marketplace with integrated AI content generation studio | Django · Stripe · Gen AI · Tailwind CSS |
+| 📱 **[E-Commerce Mobile App](https://ipsoftechsolutions.pythonanywhere.com/projects/full-stack-e-commerce-mobile-application/)** | Full-stack shopping mobile app with backend API & payment gateway | Flutter · Dart · Django · DRF · Razorpay |
+| 💼 **[CareerHub](https://ipsoftechsolutions.pythonanywhere.com/projects/careerhub-advanced-job-recruitment-platform/)** | Advanced job & recruitment platform with AI-assisted features | MERN · Tailwind CSS · Gen AI |
+
 > 🌐 All projects are live & showcased on my **[portfolio](https://ipsoftechsolutions.pythonanywhere.com/projects/)** — want the source code or need something similar built? Feel free to **[reach out](mailto:prathampansuriya444@gmail.com)**.
 
 ---
