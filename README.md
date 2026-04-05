@@ -1,13 +1,12 @@
 <div align="center">
 
-<h1>Hey, I'm Pratham Pansuriya👋</h1>
+<h1>Hey, I'm Pratham Pansuriya 👋</h1>
 
-<p><b>Full Stack Developer & AI Enthusiast</b> · Ahmedabad, India 🇮🇳</p>
+<p><b>Full Stack Developer & AI Engineer</b> · Ahmedabad, India 🇮🇳</p>
 
 <p>
-I build <b>full-stack web apps</b> · <b>mobile apps</b> · <b>AI SaaS products</b> · <b>chatbots</b> · <b>automations</b> · <b>REST APIs</b>
-<br/>
-Passionate about <b>Generative AI · LLMs · RAG systems</b> and shipping real-world AI products.
+I build <b>full-stack web apps</b> · <b>AI SaaS products</b> · <b>chatbots</b> · <b>automation systems</b> · <b>REST APIs</b><br/>
+Passionate about <b>Generative AI · LLMs · RAG systems</b>
 </p>
 
 <p>
@@ -16,111 +15,123 @@ Passionate about <b>Generative AI · LLMs · RAG systems</b> and shipping real-w
   <a href="mailto:prathampansuriya444@gmail.com">📬 Email</a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prathampansuriya&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/prathampansuriya?label=Followers&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Engineer;SaaS+Builder;Open+Source+Contributor&center=true&width=500&height=45">
+</p>
+
 </div>
+
+---
+
+## 🚀 About Me
+
+* 💻 Full Stack Developer (MERN + Django + Flutter)
+* 🤖 AI Engineer (LLMs, RAG, Generative AI)
+* 🚀 Building scalable SaaS products
+* 🌱 Always learning new technologies & improving
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+### 💻 Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat\&logo=nextdotjs\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat\&logo=tailwind-css\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat\&logo=bootstrap\&logoColor=white)
 
-**Backend**
+### ⚙️ Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000?style=flat&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFE873)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=flat\&logo=express\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=FFE873)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat\&logo=django\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat\&logo=flask\&logoColor=white)
 
-**Mobile**
+### 📱 Mobile
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat\&logo=flutter\&logoColor=white)
 
-**Databases**
+### 🗄️ Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat\&logo=firebase\&logoColor=black)
 
-**AI & Generative AI**
+### 🤖 AI & Tools
 
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Meta LLaMA](https://img.shields.io/badge/Meta%20LLaMA-0467DF?style=flat&logo=meta&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-6B21A8?style=flat&logoColor=white)
-
-**Deployment**
-
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase%20Hosting-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat&logo=hostinger&logoColor=white)
-![GoDaddy](https://img.shields.io/badge/GoDaddy-1BDBDB?style=flat&logo=godaddy&logoColor=black)
-
-**Payments**
-
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat&logo=razorpay&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat\&logo=openai\&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat\&logo=google\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat\&logo=langchain\&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Flagship Projects
 
-### 🤖 AI SaaS
+* 🎙️ **MeetWise** – AI-powered meeting assistant with transcription & summaries
+* 🤖 **AI Buddy** – Real-time AI assistant with multimodal features
+* 🔍 **AI Vision Studio** – Image, video & document AI analysis
+* 💬 **NexusChat** – AI customer support SaaS
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🎙️ **[MeetWise](https://ipsoftechsolutions.pythonanywhere.com/projects/meetwise-ai-powered-meeting-intelligence-platform/)** | Video conferencing + live transcription + AI assistant EVA + auto MOM generation | Next.js · Node.js · Socket.IO · Gemini |
-| 🤖 **[AI Buddy](https://ipsoftechsolutions.pythonanywhere.com/projects/ai-buddy-real-time-ai-assistant/)** | Real-time multilingual AI assistant with camera & screen access | Next.js · Firebase · Gemini |
-| 🔍 **[AI Vision Studio](https://ipsoftechsolutions.pythonanywhere.com/projects/ai-vision-studio-ai-content-analysis-platform/)** | Multi-modal AI analysis — image, video & document understanding | Next.js · Python · LangChain · RAG |
-| 💬 **[NexusChat](https://ipsoftechsolutions.pythonanywhere.com/projects/nexuschat-ai-customer-support-saas-platform/)** | Embeddable AI customer care SaaS with custom training & analytics | Next.js · Node.js · MongoDB · Stripe |
-
-### 🌐 Full-Stack & Mobile
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🏪 **[Multi-Vendor E-Commerce with AI Studio](https://ipsoftechsolutions.pythonanywhere.com/projects/multi-vendor-e-commerce-marketplace-with-ai-studio/)** | Multi-vendor marketplace with integrated AI content generation studio | Django · Stripe · Gen AI · Tailwind CSS |
-| 📱 **[E-Commerce Mobile App](https://ipsoftechsolutions.pythonanywhere.com/projects/full-stack-e-commerce-mobile-application/)** | Full-stack shopping mobile app with backend API & payment gateway | Flutter · Dart · Django · DRF · Razorpay |
-| 💼 **[CareerHub](https://ipsoftechsolutions.pythonanywhere.com/projects/careerhub-advanced-job-recruitment-platform/)** | Advanced job & recruitment platform with AI-assisted features | MERN · Tailwind CSS · Gen AI |
-
-> 🌐 All projects are live & showcased on my **[portfolio](https://ipsoftechsolutions.pythonanywhere.com/projects/)** — want the source code or need something similar built? Feel free to **[reach out](mailto:prathampansuriya444@gmail.com)**.
+🌐 Explore more: https://ipsoftechsolutions.pythonanywhere.com/projects/
 
 ---
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=prathampansuriya&show_icons=true&theme=radical&count_private=true" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=prathampansuriya&theme=radical" height="160"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=prathampansuriya&theme=radical)
-
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=prathampansuriya&layout=compact&theme=radical" height="150"/>
+</p>
 
 ---
 
-## 🤝 Let's Connect & Build
+## 🏆 GitHub Achievements
 
-- 👨‍💻 Open to **freelance projects**, **collaboration**, and **full-time opportunities**
-- 💡 Got an idea? I'll build it — end to end, from backend to deployment
-- 🌐 Browse all my work at **[ipsoftechsolutions.pythonanywhere.com](https://ipsoftechsolutions.pythonanywhere.com)**
-- 📩 Reach me via **[LinkedIn](https://www.linkedin.com/in/pratham-pansuriya-868b91297/)** or **[Email](mailto:prathampansuriya444@gmail.com)**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prathampansuriya&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🚧 Currently Working On
+
+* 🚀 AI SaaS Platforms
+* 🧠 Advanced LLM & RAG Systems
+* 🌐 Scalable Full Stack Apps
+
+---
+
+## 💼 Hire Me
+
+✔ Full Stack Development
+✔ AI SaaS Development
+✔ Chatbots & Automation
+✔ API Development
+
+📩 Let's build something amazing together!
+
+---
+
+## 🤝 Connect With Me
+
+* 🌐 Portfolio: https://ipsoftechsolutions.pythonanywhere.com
+* 💼 LinkedIn: https://www.linkedin.com/in/pratham-pansuriya-868b91297/
+* 📧 Email: [prathampansuriya444@gmail.com](mailto:prathampansuriya444@gmail.com)
 
 ---
 
 <div align="center">
-  <i>Building things that matter, one commit at a time.</i>
+  <i>Building impactful tech, one commit at a time 🚀</i>
 </div>
