@@ -104,14 +104,6 @@ Passionate about <b>Generative AI · LLMs · RAG systems</b> and shipping real-w
 
 ---
 
-## 📊 GitHub Stats
-
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=prathampansuriya&theme=radical)
-
-
----
-
 ## 🤝 Let's Connect & Build
 
 - 👨‍💻 Open to **freelance projects**, **collaboration**, and **full-time opportunities**
